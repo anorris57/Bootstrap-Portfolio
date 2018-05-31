@@ -68,8 +68,8 @@ img{
   height: 250px;
 }
 #portfolio img {
-  width: 250px;
-  height: 250px;
+  width: auto;
+  height: 300px;
 }
 .colorbtn {
   background-color: #4aaaa5;
